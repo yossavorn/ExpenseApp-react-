@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ExpenseApp-react-/static/css/main.c6e44f4b.chunk.css",
-    "main.js": "/ExpenseApp-react-/static/js/main.e6b1ffdc.chunk.js",
-    "main.js.map": "/ExpenseApp-react-/static/js/main.e6b1ffdc.chunk.js.map",
+    "main.js": "/ExpenseApp-react-/static/js/main.99754f6b.chunk.js",
+    "main.js.map": "/ExpenseApp-react-/static/js/main.99754f6b.chunk.js.map",
     "runtime-main.js": "/ExpenseApp-react-/static/js/runtime-main.8222e648.js",
     "runtime-main.js.map": "/ExpenseApp-react-/static/js/runtime-main.8222e648.js.map",
     "static/js/2.9820d9ee.chunk.js": "/ExpenseApp-react-/static/js/2.9820d9ee.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.8222e648.js",
     "static/js/2.9820d9ee.chunk.js",
     "static/css/main.c6e44f4b.chunk.css",
-    "static/js/main.e6b1ffdc.chunk.js"
+    "static/js/main.99754f6b.chunk.js"
   ]
 }
