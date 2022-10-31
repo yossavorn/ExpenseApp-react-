@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import NewExpense from "./components/์ืNewExpense/NewExpense";  
 import Expense from "./components/Expense/Expense";
+import FooterForm from "./components/FooterForm";
 
 const initialExpesnse = [
   {
@@ -46,7 +47,8 @@ function App() {
      
       <NewExpense onAddExpense={addExpenseHandler} />
       <Expense data={expenses} />
-     
+      <FooterForm />
+      
     </div>
   );
 }
