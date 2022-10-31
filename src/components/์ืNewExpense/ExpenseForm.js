@@ -42,6 +42,7 @@ const ExpenseForm = (props) => {
               type="text"
               value={enteredTitle}
               onChange={titleChangeHandler}
+              required
             />
           </div>
 
@@ -53,6 +54,7 @@ const ExpenseForm = (props) => {
               step="0.01"
               value={enteredAmount}
               onChange={amountChangeHandler}
+              required
             />
           </div>
 
@@ -64,6 +66,7 @@ const ExpenseForm = (props) => {
               max="2022-12-31"
               value={enteredDate}
               onChange={dateChangeHandler}
+              required
             />
           </div>
         </div>
